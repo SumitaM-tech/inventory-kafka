@@ -1,0 +1,9 @@
+confluent-kafka
+pandas
+numpy
+openpyxl
+hdfs
+statsmodels
+streamlit>=1.50
+plotly
+prophet
